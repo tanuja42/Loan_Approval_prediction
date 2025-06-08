@@ -8,7 +8,6 @@ This project is built using Python and Jupyter Notebook for model training and S
 
 ## 📁 Features
 
-- Data preprocessing and visualization
 - Model training using classification algorithms
 - Accuracy evaluation
 - Web-based user interface using Streamlit
@@ -17,7 +16,7 @@ This project is built using Python and Jupyter Notebook for model training and S
 ## 🛠 Technologies Used
 
 - Python
-- Pandas, NumPy, Matplotlib, Seaborn
+- Pandas, NumPy
 - Scikit-learn
 - Jupyter Notebook
 - Streamlit
@@ -35,7 +34,7 @@ cd Loan_Approval_prediction
 It's recommended to create a virtual environment first.
 pip install -r requirements.txt
 Or manually install:
-pip install pandas numpy scikit-learn matplotlib seaborn streamlit
+pip install pandas numpy scikit-learn streamlit
 
 
 ### Step 3: Run the app
