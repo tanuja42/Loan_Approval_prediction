@@ -42,8 +42,6 @@ streamlit run app.py
 
 📊 Dataset
 The dataset used in this project contains features like:
--Gender
--Marital Status
 -Education
 -Applicant Income
 -Loan Amount
